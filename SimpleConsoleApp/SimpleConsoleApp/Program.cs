@@ -10,7 +10,7 @@ namespace SimpleConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("WooHoo, it's a great day!");
+            Console.WriteLine("WooHoo, it's a crappy day!");
         }
     }
 }
